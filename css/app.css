@@ -1,0 +1,17 @@
+/*
+* Manifest CSS
+* Copyright 2020, Ricky Lyman
+* www.rickylyman.com
+*/
+
+
+/* Extending styles from normalize.css and skeleton.css */
+
+
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ .centered {
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+ }
